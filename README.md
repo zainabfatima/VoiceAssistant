@@ -29,10 +29,4 @@ Multi-lingual-voice-assistant-/
 
 ---
 
-## 🚀 How to Run
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/moaaz12-web/Multi-lingual-voice-assistant-.git
-cd Multi-lingual-voice-assistant-
